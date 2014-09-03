@@ -1,0 +1,5 @@
+izak_frontend:
+    resource: "@IzakFrontendBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
